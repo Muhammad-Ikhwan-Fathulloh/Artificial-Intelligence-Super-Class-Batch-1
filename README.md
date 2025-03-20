@@ -1,5 +1,6 @@
 # Hands On Artificial Intelligence Super Class Batch 1
-## Hands On Natural Language Processing Super Class
+
+## Hands On Natural Language Processing (NLP)
 
 ### 1. Introduction NLP and Text Processing
 <ul>
@@ -45,6 +46,13 @@
 ### 9. Text Generation
 <ul>
 <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Artificial-Intelligence-Super-Class-Batch-1/tree/main/Text_Generation">Text Generation</a></li>
+</ul>
+
+## Hands On Large Language Model (LLM)
+
+### 1. Introduction to LLM (Large Language Model)
+<ul>
+<li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Artificial-Intelligence-Super-Class-Batch-1/tree/main/Introduction_LLM">Introduction to LLM</a></li>
 </ul>
 
 ## Get Started with Artificial Intelligence in Real-Life Applications
